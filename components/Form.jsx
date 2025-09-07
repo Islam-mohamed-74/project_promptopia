@@ -8,8 +8,6 @@ export default function Form({
   submitting,
   handleSubmit,
 }) {
-  // console.log(post, submitting, type, handleSubmit, setPost);
-
   return (
     <section className="w-full max-w-full flex-start flex-col">
       {/* Form Section */}

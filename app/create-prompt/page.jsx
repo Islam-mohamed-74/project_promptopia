@@ -25,13 +25,12 @@ export default function CreatePrompt() {
           tag: post.tag,
         }),
       });
-      console.log(response);
 
       if (response.ok) {
         router.push("/");
       }
     } catch (error) {
-      console.log(error);
+      // Handle error silently
     } finally {
       setsubmitting(false);
     }

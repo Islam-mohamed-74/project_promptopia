@@ -14,7 +14,6 @@ export default function Nav() {
     let isMounted = true;
     const setupProviders = async () => {
       const response = await getProviders();
-      console.log(response);
       if (isMounted) setProviders(response);
     };
     setupProviders();

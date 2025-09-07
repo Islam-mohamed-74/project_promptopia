@@ -40,7 +40,7 @@ export default function UpdatePrompt() {
         router.push("/");
       }
     } catch (error) {
-      console.log(error);
+      // Handle error silently
     } finally {
       setsubmitting(false);
     }

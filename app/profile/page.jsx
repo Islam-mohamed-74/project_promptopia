@@ -12,7 +12,6 @@ export default function Profile() {
     const fetchPosts = async () => {
       const response = await fetch(`/api/users/${session?.user.id}/posts`);
       const data = await response.json();
-      console.log(data);
       setPosts(data);
     };
 
@@ -36,7 +35,7 @@ export default function Profile() {
         const filteredPosts = posts.filter((p) => p._id !== post._id);
         setPosts(filteredPosts);
       } catch (error) {
-        console.log(error);
+        // Handle error silently
       }
     }
   };
