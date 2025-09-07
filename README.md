@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Name:** [Islam Mohamed]
-**Email:** [email@example.com]
+**Email:** [Islam.mohamed.alrfa3i@gmail.com]
 **GitHub:** [@Islam-mohamed-74](https://github.com/Islam-mohamed-74)
 **LinkedIn:** [Islam Mohamed](https://www.linkedin.com/in/islam-mohamed-038240210/)
 
