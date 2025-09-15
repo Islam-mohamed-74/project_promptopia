@@ -1,5 +1,9 @@
 # 🚀 Promptopia - AI Prompts Sharing Platform
 
+![Project Screenshot](https://raw.githubusercontent.com/Islam-mohamed-74/project_promptopia/09f466076e094399f100135d333d1524ea8cd876/public/assets/images/logo.svg)
+
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-15.5.2-black?style=for-the-badge&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-19.1.0-blue?style=for-the-badge&logo=react" alt="React" />
