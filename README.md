@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+![preview](./image.jpg)
 ## 📖 Overview
 
 Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts. It's a community-driven platform where users can share their best AI prompts and discover new ones from other creators.
